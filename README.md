@@ -1,2 +1,2 @@
-# wrecking-ball
-in this file i demonstrated the wrecking ball simulation
+# Wrecking_ball
+Wrecking ball simulation
